@@ -19,8 +19,10 @@ MySecondTest
     Remove Tags    regression 
 
 MyThirdTest
-    Log    3rd $     
+    Log    3rd  
 
+MyFourthTest
+    Log    4th
 
     
 # FirstSeleniumTest
